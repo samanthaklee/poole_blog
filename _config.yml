@@ -5,7 +5,7 @@ permalink:           pretty
 title:               Your Blog Title
 tagline:             ''
 description:         ''
-home:                http://samanthaklee.github.io
+home:                https://github.com/samanthaklee/poole_blog
 url:                 http://samanthaklee.github.io/poole_blog
 baseurl:             /BLOG_NAME/
 paginate:            5
