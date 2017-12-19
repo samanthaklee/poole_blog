@@ -2,11 +2,15 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
-baseurl:             ""
+title:               Your Blog Title
+tagline:             ''
+description:         ''
+home:                http://samanthaklee.github.io
+url:                 http://samanthaklee.github.io/blog_name
+baseurl:             /BLOG_NAME/
+paginate:            5
+paginate_path:       "/page:num/"
+exclude:             ['posts']
 
 # Assets
 #
