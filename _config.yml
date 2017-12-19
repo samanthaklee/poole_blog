@@ -6,7 +6,7 @@ title:               Your Blog Title
 tagline:             ''
 description:         ''
 home:                http://samanthaklee.github.io
-url:                 http://samanthaklee.github.io/blog_name
+url:                 http://samanthaklee.github.io/poole_blog
 baseurl:             /BLOG_NAME/
 paginate:            5
 paginate_path:       "/page:num/"
